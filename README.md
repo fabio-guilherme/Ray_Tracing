@@ -1,2 +1,2 @@
-# Graphics_Pipeline
- Graphics Pipeline
+# Ray_Tracing
+ Ray Tracing
